@@ -1,0 +1,7 @@
+{
+  "name": "LuminaShot AI",
+  "description": "A high-end professional AI headshot photographer that transforms casual selfies into boardroom-ready portraits using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
